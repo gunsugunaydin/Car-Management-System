@@ -69,7 +69,7 @@ Below, you can see screenshots of the core family tables I’ve created in my da
 
 ![Ekran görüntüsü 2024-08-13 232251](https://github.com/user-attachments/assets/1f13e316-e147-4137-a445-1a88bab08d38)
 
-PgAdmin Database Tables Screenshot
+PgAdmin Tables Screenshot
 
 
 ## Important Notes
