@@ -75,7 +75,7 @@ Below, you can see screenshots of the core family tables I’ve created in my da
 
 Thank you for following these guidelines to maintain system integrity. If you have any questions, issues, or feedback about this project, please feel free to reach out to me:
 
-Email: gunsugunay98@gmail.com
-LinkedIn: https://www.linkedin.com/in/gunsugunaydin/
+- **Email**: gunsugunay98@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gunsugunaydin/
 
 I'll be happy to assist you!
