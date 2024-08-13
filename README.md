@@ -59,9 +59,23 @@ Car Management System is a Spring Boot-based web application designed to manage 
 
 Access the API documentation through Swagger by navigating to `http://localhost:8080/swagger-ui/index.html`.
 
+![Ekran görüntüsü 2024-08-13 232502](https://github.com/user-attachments/assets/7cf0f354-cc14-4292-a9bb-8715314de785)
+
+## Database Schema
+
+Below, you can see screenshots of the core family tables I’ve created in my database. As a note for those familiar with .NET: the database doesn’t create itself automatically 😅—you need to set it up manually. In my case, I only had four tables to start with.
+
+![Ekran görüntüsü 2024-08-13 232251](https://github.com/user-attachments/assets/1f13e316-e147-4137-a445-1a88bab08d38)
+
+
 ## Important Notes
 
 - **Authority Management:** This setup anticipates future enhancements for access control, even though authorities are not yet used for securing endpoints.
 - **Data Entry Guidelines:** Ensure all input meets specified validation criteria, such as setting `mileage` to a value greater than 0.0.
 
-Thank you for following these guidelines to maintain system integrity.
+Thank you for following these guidelines to maintain system integrity. If you have any questions, issues, or feedback about this project, please feel free to reach out to me:
+
+Email: gunsugunay98@gmail.com
+LinkedIn: https://www.linkedin.com/in/gunsugunaydin/
+
+I'll be happy to assist you!
