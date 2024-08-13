@@ -59,13 +59,17 @@ Car Management System is a Spring Boot-based web application designed to manage 
 
 Access the API documentation through Swagger by navigating to `http://localhost:8080/swagger-ui/index.html`.
 
-![Ekran görüntüsü 2024-08-13 232502](https://github.com/user-attachments/assets/7cf0f354-cc14-4292-a9bb-8715314de785)
+![image](https://github.com/user-attachments/assets/4bb750b1-f6df-4044-9d63-bc5724696820)
+
+Swagger UI Screenshot
 
 ## Database Tables
 
 Below, you can see screenshots of the core family tables I’ve created in my database. As a note for those familiar with .NET, H2, and similar technologies: the database doesn’t create itself automatically😅 —you need to set it up manually. In my case, I only had four tables to start with.
 
 ![Ekran görüntüsü 2024-08-13 232251](https://github.com/user-attachments/assets/1f13e316-e147-4137-a445-1a88bab08d38)
+
+PgAdmin Database Tables Screenshot
 
 
 ## Important Notes
