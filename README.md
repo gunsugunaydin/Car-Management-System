@@ -1,4 +1,4 @@
-# Car Management System <img src="https://media.tenor.com/X9tvoE7XYAMAAAAj/tkthao219-peach.gif" alt="Waving Hand" width="50" height="50">
+# Car Management System <img src="https://media.tenor.com/im7hu4LtdV8AAAAM/mochi-mochimochi.gif" alt="Waving Hand" width="50" height="50">
 
 Car Management System is a Spring Boot-based web application designed to manage user profiles and car information. It utilizes PostgreSQL for data storage and JWT for secure authentication. The application provides endpoints for user registration, login, profile management, and car operations, making it a comprehensive solution for user and vehicle management.
 
