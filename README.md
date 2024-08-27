@@ -76,10 +76,8 @@ PgAdmin Tables Screenshot
 
 - **Authority Management:** This setup anticipates future enhancements for access control, even though authorities are not yet used for securing endpoints.
 - **Data Entry Guidelines:** Ensure all input meets specified validation criteria, such as setting `mileage` to a value greater than 0.0.
- 
-<img src="https://i.pinimg.com/originals/ed/a7/0d/eda70dff28980203ababcd435afe5248.gif" alt="Waving Hand" width="50" height="50">
 
-Thank you for following these guidelines to maintain system integrity. If you have any questions, issues, or feedback about this project, please feel free to reach out to me:
+<img src="https://i.pinimg.com/originals/ed/a7/0d/eda70dff28980203ababcd435afe5248.gif" alt="Waving Hand" width="50" height="50"> Thank you for following these guidelines to maintain system integrity. If you have any questions, issues, or feedback about this project, please feel free to reach out to me:
 
 - **Email**: gunsugunay98@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gunsugunaydin/
