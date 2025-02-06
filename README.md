@@ -17,6 +17,19 @@ Car Management System is a Spring Boot-based web application with integrated API
 - **PostgreSQL**: Data management
 - **Swagger**: API documentation
 
+## Prerequisites
+
+Before running the project, make sure you have the following installed and properly set up on your system:
+
+- **Java 21**  
+- **Maven 3.x**  
+- **PostgreSQL 14+**
+  
+Ensure you have an active PostgreSQL instance running on `port: 5435` with the following database configuration:  
+- **Database Name:** `dbcaruser`  
+- **Username:** `postgres`  
+- **Password:** `admin`
+- 
 ## Setup and Installation
 
 1. **Clone the Repository**:
