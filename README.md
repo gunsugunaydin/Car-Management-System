@@ -43,14 +43,7 @@ Ensure you have an active PostgreSQL instance running on `port: 5435` with the f
     ./mvnw install
     ```
 
-3. **Database Configuration**:
-   Configure your PostgreSQL database with the following settings:
-
-   - **Database URL**: `jdbc:postgresql://localhost:5432/dbcaruser`
-   - **Username**: `postgres`
-   - **Password**: `admin`
-
-4. **Run the Application**:
+3. **Run the Application**:
     ```bash
     ./mvnw spring-boot:run
     ```
