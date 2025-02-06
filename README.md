@@ -29,7 +29,7 @@ Ensure you have an active PostgreSQL instance running on `port: 5435` with the f
 - **Database Name:** `dbcaruser`  
 - **Username:** `postgres`  
 - **Password:** `admin`
-- 
+
 ## Setup and Installation
 
 1. **Clone the Repository**:
